@@ -16,4 +16,9 @@ babel（install）：
     <1>. babel-loader 8.x对应babel-core 7.x
     <2>. babel-loader 7.x对应babel-core 6.x
 
+###
+为什么要用面向对象？
+程序执行： 顺序，循环，判断 ---- 结构化
+面向对象 ---- 数据结构化
+，对于计算机来说，结构化才是最简单的
 ##
