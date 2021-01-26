@@ -2,9 +2,7 @@
 class JqueryLike {
   constructor(selector) {
     let slice = Array.prototype.slice;
-    console.log(document.querySelectorAll(selector));
     let dom = slice.call(document.querySelectorAll(selector));
-    console.log(dom);
     let len = dom ? dom.length : 0
     for(let i = 0; i < len; i++) {
       this[i] = dom[i];
