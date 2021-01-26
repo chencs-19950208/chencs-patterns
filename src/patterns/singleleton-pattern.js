@@ -46,6 +46,8 @@ console.log(obj3 === obj1, 'obj3 === obj1'); // false
  * 应用场景
  * 1. Jquery 中 $符号
  * 2. 模拟登录框
+ * 3. 购物车
+ * 4. vuex 和 redux 中的store（state）
  */
 
 // 模拟登录框
@@ -94,3 +96,8 @@ login2.hide();
 login1.hide();
 
 console.log('login1 === login2', login1 === login2);
+
+/** 
+ * 单一职责原则
+ * 没法验证开放封闭原则，但是它没有违反开放封闭原则
+ */
