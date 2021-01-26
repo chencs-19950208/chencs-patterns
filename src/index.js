@@ -5,7 +5,7 @@ import JqueryLike from './jquery-demo/indexLike'; // Jquery
 import FactoryPattern from './patterns/factory-pattern'; // 工厂模式
 import SingleletonPattern from './patterns/singleleton-pattern'; // 单列模式
 import AdapteePattern from './patterns/adaptee-pattern'; // 适配器模式
-
+import DecoratorPattern from './patterns/decorator-pattern'; // 装饰器模式
 
 
 

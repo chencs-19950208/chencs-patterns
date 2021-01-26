@@ -16,6 +16,8 @@ babel（install）：
     <1>. babel-loader 8.x对应babel-core 7.x
     <2>. babel-loader 7.x对应babel-core 6.x
 
+  babel-plugin-transform-decorators-legacy 装饰器代码转化, 并且babelrc中需要配置
+
 ###
 为什么要用面向对象？
 程序执行： 顺序，循环，判断 ---- 结构化
